@@ -1,1 +1,2 @@
 # hack-icp
+# icp-hackathon
